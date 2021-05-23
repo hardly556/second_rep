@@ -46,3 +46,6 @@ type=rpm-md
 	force group = @printadmin
 	create mask = 0664
 	directory mask = 0775
+
+
+test
