@@ -49,3 +49,4 @@ type=rpm-md
 
 
 test
+test2
